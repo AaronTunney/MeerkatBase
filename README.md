@@ -1,3 +1,3 @@
 # MeerkatBase
 
-A description of this package.
+Base framework for DocC demonstration.
